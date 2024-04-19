@@ -1,4 +1,5 @@
-<h1> $${\color{red}forever \space in \space debt \space to \space your \space priceless \space advice }$$</h1>
+<em>h-hi everyone... erm im r-really um.. shy... theres so many people...</em> 🥺🍼🌹✨
+<h1> $${\color{red}i \space will \space protect \space you. }$$</h1>
 <table align="right">
   <div align="center">
     <tr>
@@ -19,7 +20,8 @@
 
   > [!CAUTION]
 > <em><small> Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water.
-  
+
+  <h2></h2>
 <!--
 **rykuzu/rykuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
