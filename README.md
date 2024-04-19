@@ -1,5 +1,5 @@
-<em>h-hi everyone... erm im r-really um.. shy... theres so many people...</em> 🥺🍼🌹✨
-<h1> $${\color{red}i \space will \space protect \space you. }$$</h1>
+<em>- h-hi everyone... erm im r-really um.. shy... theres so many people...</em> 🥺🍼🌹✨
+<h1> $${\color{red}- \space i \space will \space protect \space you. }$$</h1>
 <table align="right">
   <div align="center">
     <tr>
