@@ -15,7 +15,7 @@
       <th><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b01f2d65-43ac-40f3-b0e7-e9f72548e666/d12bdtg-6f0e6df6-4ee3-4c34-9f44-846e075f321c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IwMWYyZDY1LTQzYWMtNDBmMy1iMGU3LWU5ZjcyNTQ4ZTY2NlwvZDEyYmR0Zy02ZjBlNmRmNi00ZWUzLTRjMzQtOWY0NC04NDZlMDc1ZjMyMWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PlVaWN3fbjuHWKga-561Xh5AZO5syufyaX8coXMxiBM" height="55"></th>
       <th><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a4c53add-8a91-4bf2-a1e9-22397b260a7d/ddbrnb9-35401710-2fb4-4aed-ae53-cb93f6886c06.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E0YzUzYWRkLThhOTEtNGJmMi1hMWU5LTIyMzk3YjI2MGE3ZFwvZGRicm5iOS0zNTQwMTcxMC0yZmI0LTRhZWQtYWU1My1jYjkzZjY4ODZjMDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.V1tRJ7bv9_OSmM9ppCo2uXnLbbLE_cBJ74Qise-xTMQ" height="55"></th>
     </tr>
-<img src="https://ellezag.neocities.org/images/shinji_koromaru.gif" height="250" width="250" align="right" >  
+<img src="https://ellezag.neocities.org/images/shinji_koromaru.gif" height="150" width="150" align="right" >  
 
   > [!CAUTION]
 > <em><small> Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water.
