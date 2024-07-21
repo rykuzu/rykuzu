@@ -13,5 +13,6 @@
  
  <img src="https://komarev.com/ghpvc/?username=rykuzu&label=fellow sheep: &color=B1A535">
 
-  <p align="center"> <a href="https://www.youtube.com/@Yaelokre"> characters, art: © Yaelokre</a> 
+ <h2><sub> <p align="center"> <a href="https://www.youtube.com/@Yaelokre"> characters, art: © Yaelokre</a> </sub></h2>
 
+<p align="center"><sub> need help? shoot me up a message on my <a href="https://www.ultraguest.com/view/1717388758">guestbook</a> <img src="https://files.catbox.moe/nkyf82.gif"></p>
