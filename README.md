@@ -12,4 +12,6 @@
 
  
  <img src="https://komarev.com/ghpvc/?username=rykuzu&label=fellow sheep: &color=B1A535">
- </p>
+
+  <p align="center"> <a href="https://www.youtube.com/@Yaelokre"> characters, art: © Yaelokre</a> 
+
