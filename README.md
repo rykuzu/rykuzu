@@ -1,1 +1,10 @@
- <p align="center"> <img src="https://files.catbox.moe/ivda17.gif" align="center"> &nbsp;  ${\textsf{\color{#CAC470}harpy hare, where have you buried all your children?}}$ </p>
+ <p align="center"> <img src="https://files.catbox.moe/ivda17.gif" align="center"> &nbsp;  ${\textsf{\color{#CAC470}harpy hare, where have you buried all your children?}}$ <br>
+<image src="https://file.garden/ZlwiKgzAvyz0wLRz/clementine.png" align="left" width="120"> <kbd>tell me so i say.</kbd> <image src="https://file.garden/ZlwiKgzAvyz0wLRz/cole.png" align="right" width="120">
+ <br><br><sub>ryku, they/them, main acc: shinminase </sub>
+<br><br>${\textsf{\color{#CAC470} a link of resources that i find useful:}}$<br>
+<sub> &#xb7; <a href="https://clipdrop.co/relight">clipdrop relight</a> - an app helps light your photos <br>
+&#xb7; <a href="https://clipdrop.co/relight">sherlock project</a> - a python program that tracks down several sites with the same username <br>
+&#xb7; <a href="https://www.photopea.com/">photopea</a> - a free, web-based graphic editor program that resembles photoshop. <br>
+ &#xb7; <a href="https://www.macrocreator.com/">pulover's macrocreator</a> - a totally free alternative to macrorecorder, records your mouse & keyboard.
+ </sub>
+ </p>
