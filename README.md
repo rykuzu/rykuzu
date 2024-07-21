@@ -5,6 +5,9 @@
 <sub> &#xb7; <a href="https://clipdrop.co/relight">clipdrop relight</a> - an app helps light your photos <br>
 &#xb7; <a href="https://clipdrop.co/relight">sherlock project</a> - a python program that tracks down several sites with the same username <br>
 &#xb7; <a href="https://www.photopea.com/">photopea</a> - a free, web-based graphic editor program that resembles photoshop. <br>
- &#xb7; <a href="https://www.macrocreator.com/">pulover's macrocreator</a> - a totally free alternative to macrorecorder, records your mouse & keyboard.
- </sub>
+ &#xb7; <a href="https://www.macrocreator.com/">pulover's macrocreator</a> - a totally free alternative to macrorecorder, records your mouse & keyboard. <br>
+  &#xb7; <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev's view counter</a> - a github view counter. i use it, in fact.
+ </sub><br><br>
+ 
+ <img src="https://komarev.com/ghpvc/?username=rykuzu&label=fellow sheep: &color=CAC470">
  </p>
