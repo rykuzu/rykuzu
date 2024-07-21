@@ -1,6 +1,6 @@
  <p align="center"> <img src="https://files.catbox.moe/ivda17.gif" align="center"> &nbsp;  ${\textsf{\color{#CAC470}harpy hare, where have you buried all your children?}}$ <br>
 <a href="https://github.com/shinminase"><image src="https://file.garden/ZlwiKgzAvyz0wLRz/clementine.png" align="left" width="130"></a> <kbd>tell me so i say.</kbd> <a href="https://github.com/gutsnroses"><image src="https://file.garden/ZlwiKgzAvyz0wLRz/cole.png" align="right" width="130"></a>
- <br><br><sub>ryku, they/them, main acc: shinminase </sub>
+ <br><br><sub>ryku, they/them, main acc: <a href="https://github.com/shinminase">shinminase</a> </sub>
 <br><br>${\textsf{\color{#CAC470} a link of resources that i find useful:}}$<br>
 <sub> &#xb7; <a href="https://clipdrop.co/relight">clipdrop relight</a> - an app helps light your photos <br>
 &#xb7; <a href="https://clipdrop.co/relight">sherlock project</a> - a python program that tracks down several sites with the same username <br>
