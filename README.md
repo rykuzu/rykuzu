@@ -15,4 +15,4 @@
 
  <h2><sub> <p align="center"> <a href="https://www.youtube.com/@Yaelokre"> characters, art: © Yaelokre</a> </sub></h2>
 
-<p align="center"><sub> need help? shoot me up a message on my <a href="https://www.ultraguest.com/view/1717388758">guestbook</a> <img src="https://files.catbox.moe/nkyf82.gif"></p>
+<p align="center"><sub> need help? shoot me up a message on my <a href="https://www.ultraguest.com/view/1717388758">guestbook</a> <img src="https://files.catbox.moe/nkyf82.gif"><br>note: i do not spamfollow, i simply follow the people i see on pt and like their ponies!</p>
