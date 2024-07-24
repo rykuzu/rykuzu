@@ -11,7 +11,7 @@
  </sub><br><br>
 
  
- <img src="https://komarev.com/ghpvc/?username=rykuzu&label=fellow sheep: &color=B1A535">
+ <img src="https://komarev.com/ghpvc/?username=rykuzu&label=???: &color=B1A535">
 
  <h2><sub> <p align="center"> <a href="https://www.youtube.com/@Yaelokre"> characters, art: © Yaelokre</a> </sub></h2>
 
