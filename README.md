@@ -47,5 +47,5 @@
  <!-- replace username and color and label --> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rykuzu&color=F391AE&label=everafters:"></p>
 <a href="https://github.com/shinminase/marquee/">
-  <img src="/marquee.svg"></img>
+  <img src="https://github.com/rykuzu/rykuzu/blob/main/marquee.svg"></img>
 </a>
