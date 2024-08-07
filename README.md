@@ -38,11 +38,11 @@
   ryku, they/them, main acc is @shinminase
 </li>
 <li>
-  note. i dont spamfollow. i follow ponies that i find pretty.
+  note. i dont spamfollow! i follow ponies that i find pretty.
 </li>
 <li>
-  meow
+ reach out to me whenever.
 </li>
 </details>
  <!-- replace username and color and label --> 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=F391AE&label=everafters:"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rykuzu&color=F391AE&label=everafters:"></p>
