@@ -1,18 +1,40 @@
- <p align="center"> <img src="https://files.catbox.moe/ivda17.gif" align="center"> &nbsp;  ${\textsf{\color{#CAC470}harpy hare, where have you buried all your children?}}$ <br>
-<a href="https://github.com/shinminase"><image src="https://file.garden/ZlwiKgzAvyz0wLRz/clementine.png" align="left" width="130"></a> <kbd>tell me so i say.</kbd> <a href="https://github.com/gutsnroses"><image src="https://file.garden/ZlwiKgzAvyz0wLRz/cole.png" align="right" width="130"></a>
- <br><br><sub>ryku, they/them, main acc: <a href="https://github.com/shinminase">shinminase</a> </sub>
-<br><br>${\textsf{\color{#CAC470} a link of resources that i find useful:}}$<br>
-<sub> &#xb7; <a href="https://clipdrop.co/relight">clipdrop relight</a> - an app helps light your photos <br>
-&#xb7; <a href="https://clipdrop.co/relight">sherlock project</a> - a python program that tracks down several sites with the same username <br>
-&#xb7; <a href="https://www.photopea.com/">photopea</a> - a free, web-based graphic editor program that resembles photoshop. <br>
- &#xb7; <a href="https://www.macrocreator.com/">pulover's macrocreator</a> - a totally free alternative to macrorecorder, records your mouse & keyboard. <br>
-  &#xb7; <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev's view counter</a> - a github view counter. i use it, in fact. <br>
-   &#xb7; <a href="https://readme-typing-svg.herokuapp.com/demo/">readme typing SVG</a> - an animated text svg that works on github, customizable.
- </sub><br><br>
+<!-- CODE STARTS HERE! copy and paste all of below.-->
 
- 
- <img src="https://komarev.com/ghpvc/?username=rykuzu&label=???: &color=B1A535">
+<img src="https://files.catbox.moe/lu6c7n.gif" height="480" align="left">
+<!-- make sure gif you're using has the right dimensions (it has to be a square, equal width and height) make sure to leave transparent space to the right. -->
 
- <h2><sub> <p align="center"> <a href="https://www.youtube.com/@Yaelokre"> characters, art: © Yaelokre</a> </sub></h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F391AE&repeat=false&width=235&lines=SMS+%E2%80%A2+GEHLEE+DANGCA">
+<!-- if u plan on replacing this, go to https://readme-typing-svg.herokuapp.com/demo/ - but make sure you set the width at 235! -->
 
-<p align="center"><sub> need help on anything? shoot me up a message on my <a href="https://www.ultraguest.com/view/1717388758">guestbook</a> <img src="https://files.catbox.moe/nkyf82.gif"><br>note: i do not spamfollow, i simply follow the people i see on pt and like their ponies!</p>
+
+<!-- dialog 1 , make sure ur icon pngs are 50x50 -->
+<p align="left"> <img src="https://files.catbox.moe/hlqs91.png" width="50" height="50" align="left"> <kbd><br>Hey peebrain. You teleport?<br>&nbsp;  </kbd> </p>
+
+<!-- dialog 2 -->
+<p align="right"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yusuke.png" width="50" height="50" align="right"> <kbd align="right"><br>no?<br>&nbsp;  </kbd></p>
+
+<!-- dialog 3 -->
+<p align="left"> <img src="https://files.catbox.moe/hlqs91.png" width="50" height="50" align="left"> <kbd><br> nvm then <br>&nbsp;  </kbd> </p>
+
+<details>
+  <!-- replace the #00F71E with any other hex color-->
+ <summary> ${\textsf{\color{#F391AE}❧————————————————————————☙}}$ 
+ <br> ${\textsf{\color{#F391AE}click for more info}}$ 
+ <br>
+
+ <!-- replace hashtag with actual links-->  
+ <p align="center"> 
+ <a href="#">link 1</a>, 
+ <a href="#">link 2</a>, 
+ <a href="#">link 3</a> 
+ </p>
+
+</summary>
+
+ <!-- add extra information here --> 
+<li>test</li>
+<li>test</li>
+<li>test</li>
+</details>
+ <!-- replace username and color and label --> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=F391AE&label=everafters:"></p>
