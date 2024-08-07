@@ -24,17 +24,25 @@
 
  <!-- replace hashtag with actual links-->  
  <p align="center"> 
- <a href="#">link 1</a>, 
- <a href="#">link 2</a>, 
- <a href="#">link 3</a> 
+   <img src="https://files.catbox.moe/0j5ixf.gif">
+ <a href="https://shinminase.neocities.org">neocities<a>, 
+ <a href="https://www.ultraguest.com/view/1717388758">guestbook</a>, 
+ <a href="#">resources</a> 
+  <img src="https://files.catbox.moe/096p9i.gif">
  </p>
 
 </summary>
 
  <!-- add extra information here --> 
-<li>test</li>
-<li>test</li>
-<li>test</li>
+<li>
+  ryku, they/them, main acc is @shinminase
+</li>
+<li>
+  note. i dont spamfollow. i follow ponies that i find pretty.
+</li>
+<li>
+  meow
+</li>
 </details>
  <!-- replace username and color and label --> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=usernamehere&color=F391AE&label=everafters:"></p>
