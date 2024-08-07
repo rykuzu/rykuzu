@@ -1,6 +1,6 @@
 <!-- CODE STARTS HERE! copy and paste all of below.-->
 
-<img src="https://files.catbox.moe/lu6c7n.gif" height="480" align="left">
+<img src="https://files.catbox.moe/lu6c7n.gif" width="430" height="380" align="left">
 <!-- make sure gif you're using has the right dimensions (it has to be a square, equal width and height) make sure to leave transparent space to the right. -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F391AE&repeat=false&width=235&lines=SMS+%E2%80%A2+GEHLEE+DANGCA">
