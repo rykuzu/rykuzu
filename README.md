@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://files.catbox.moe/hlqs91.png" width="50" height="50" align="left"> <kbd><br>Hey peebrain. You teleport?<br>&nbsp;  </kbd> </p>
 
 <!-- dialog 2 -->
-<p align="right"> <img src="https://file.garden/ZlwiKgzAvyz0wLRz/aaaa/yusuke.png" width="50" height="50" align="right"> <kbd align="right"><br>no?<br>&nbsp;  </kbd></p>
+<p align="right"> <img src="https://files.catbox.moe/hlqs91.png" width="50" height="50" align="right"> <kbd align="right"><br>no?<br>&nbsp;  </kbd></p>
 
 <!-- dialog 3 -->
 <p align="left"> <img src="https://files.catbox.moe/hlqs91.png" width="50" height="50" align="left"> <kbd><br> nvm then <br>&nbsp;  </kbd> </p>
