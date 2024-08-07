@@ -9,7 +9,7 @@
         transform: translateX(100%);
       }
       100% {
-        transform: translateX(-390%);
+        transform: translateX(-410%);
       }
     }
   </style>
