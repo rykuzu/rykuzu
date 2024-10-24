@@ -47,5 +47,5 @@
   -->
 
   <!-- Header name inside the central heart >_< -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial" font-size="30">WIP</text>
+  <text x="250" y="400" dominant-baseline="middle" text-anchor="middle" fill="#1ef1ed" font-family="Impact" font-size="20">If I follow you, I think your pony's really pretty!</text>
 </svg>
