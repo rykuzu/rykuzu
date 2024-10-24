@@ -1,1 +1,1 @@
-if i follow u i think your pony is really rad and pretty
+I wanna be apart of the real world, but at the minute I'm your virtual girl!
